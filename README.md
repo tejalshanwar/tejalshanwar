@@ -1,82 +1,143 @@
 <h1 align="center">Hi 👋, I'm Tejal Shanwar</h1>
 
-<p align="center">
-  <b>Computer Engineering Student • Data • Design • Business • Content</b>
-</p>
+<h3 align="center">Computer Engineering Student | Data Analytics | Business Analytics | UI/UX | Frontend | Content Creation</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tejal-shanwar-33b9782b5/">LinkedIn</a>
-  •
+  <a href="https://www.linkedin.com/in/tejal-shanwar-33b9782b5/">LinkedIn</a> •
   <a href="mailto:tshanwar393@gmail.com">Email</a>
 </p>
 
 ---
 
-### ✨ About Me
+## 👩‍💻 About Me
 
-I'm a Computer Engineering student who enjoys bringing together **technology, creativity, design, and data** to turn ideas into practical solutions.
+I'm a Computer Engineering student who enjoys combining **technology, creativity, design, and data** to build useful digital experiences.
 
-I'm exploring **Data Analytics, Business Analytics, Power BI, UI/UX, Frontend Development, and Content Creation**. I enjoy learning new tools, working on projects, designing digital experiences, and finding meaningful insights from data.
+I'm currently exploring **Data Analytics, Business Analytics, Power BI, UI/UX, Frontend Development, and Content Creation**. I enjoy working on projects, visualizing data, designing interfaces, creating content, and continuously learning new tools and technologies.
 
-> **Learn • Create • Analyze • Build**
+🌱 Currently learning **Content Creation, Power BI & Business Analytics**
 
----
+🎯 Interested in **Data Analyst | Business Analyst | Power BI Developer | UI/UX | Frontend | Content & Social Media**
 
-### 🧩 What I Work With
+💡 I believe in learning by building and turning ideas into practical solutions.
 
-| Area                      | Skills                                                     |
-| ------------------------- | ---------------------------------------------------------- |
-| 📊 **Data & Analytics**   | Excel • SQL • Power BI • Data Visualization                |
-| 💼 **Business Analytics** | Data-driven insights • Problem Solving • Business Thinking |
-| 🎨 **UI/UX & Design**     | Figma • Canva • Wireframing • Prototyping                  |
-| 🌐 **Frontend**           | HTML • CSS • JavaScript                                    |
-| 💻 **Programming**        | Python • C • Java                                          |
-| 📱 **Content Creation**   | Reels • Visual Content • Social Media • Storytelling       |
-| 🔧 **Other**              | Git • GitHub • Arduino                                     |
+📫 Reach me at **[tshanwar393@gmail.com](mailto:tshanwar393@gmail.com)**
 
 ---
 
-### 🚀 Selected Projects
+## 🛠️ Skills & Technologies
 
-**📊 HR Analytics Dashboard**
-Interactive dashboard built to explore employee data, workforce trends, and key HR insights using Power BI.
+### 💻 Programming
 
-**🩺 Kidney Stone Detection System**
-Machine-learning based project exploring the detection of kidney stones using Python and ML techniques.
+**Python • C • Java • JavaScript**
 
-**🌐 Online Pharmacy Website**
-User-focused web interface designed for browsing and ordering medicines.
+### 🌐 Web Development
+
+**HTML • CSS • JavaScript**
+
+### 📊 Data Analytics & Business Analytics
+
+* Microsoft Excel
+* Power BI
+* SQL
+* Data Cleaning
+* Data Visualization
+* Dashboard Development
+* Basic Data Analysis
+* Business Insights
+
+### 🎨 UI/UX & Design
+
+* UI/UX Design
+* Wireframing
+* Prototyping
+* Figma
+* Canva
+* Visual Design
+
+### 🤖 Data & Machine Learning
+
+* Python
+* Pandas
+* Scikit-learn
+* Basic Machine Learning
+* Data Visualization
+
+### 🔧 Other Tools
+
+**Git • GitHub • Arduino • Microsoft Office**
 
 ---
 
-### 🏆 Beyond Coding
+## 🚀 Selected Projects
 
-🥈 **2nd Prize — Reel Making Competition**
+### 📊 HR Analytics Dashboard
 
-👩‍💼 **Treasurer Head — CESA-CSI**
+An interactive Power BI dashboard designed to analyze employee data, workforce trends, and key HR insights.
 
-🎯 **Event Head — Technetics**
+**Tech:** Power BI • Excel • Data Analysis
 
-🎤 **Panel Head — ICSICE**
+### 🏠 IoT Home Automation
+
+An Arduino-based home automation project designed to control appliances using IoT concepts.
+
+**Tech:** Arduino • IoT
+
+### 💊 Online Pharmacy Website
+
+A web-based pharmacy platform designed with a simple and user-friendly interface for browsing and ordering medicines.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🍔 Food Ordering Website
+
+A responsive food ordering website focused on creating a simple and user-friendly digital experience.
+
+**Tech:** HTML • CSS • JavaScript
+
+### 🌦️ Weather Prediction System
+
+A basic project exploring weather data and prediction concepts using Python.
+
+**Tech:** Python • Data Analysis
 
 ---
 
-### 🌱 Currently Learning
+## 🏆 Achievements & Leadership
 
-**Power BI** • **Business Analytics** • **Content Creation** • **UI/UX**
-
-I'm constantly experimenting with new ideas and building skills that combine **analytical thinking with creativity**.
-
----
-
-### 🎯 Areas I'm Interested In
-
-`Data Analyst` · `Business Analyst` · `Power BI Developer`
-`UI/UX Designer` · `Frontend Developer` · `Content & Social Media`
+* 🥈 **2nd Prize — Reel Making Competition**
+* 👩‍💼 **Treasurer Head — CESA-CSI**
+* 🎯 **Event Head — Technetics**
+* 🎤 **Panel Head — ICSICE**
 
 ---
 
-### 🤝 Let's Connect
+## 📚 Certifications
+
+* ☁️ **IBM Cloud Computing**
+* ☕ **Java Full Stack — Eduskill**
+
+---
+
+## 📈 Currently Exploring
+
+**Data Analytics** • **Power BI** • **Business Analytics**
+**UI/UX Design** • **Frontend Development** • **Content Creation**
+
+---
+
+## 🎯 Career Interests
+
+I'm looking to grow in roles where I can combine **technology + creativity + analytical thinking**, especially:
+
+**Data Analyst** • **Business Analyst** • **Power BI Developer**
+**UI/UX Designer** • **Frontend Developer** • **Content & Social Media**
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating on interesting projects, and connecting with people from the tech and creative community.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tejal-shanwar-33b9782b5/">
