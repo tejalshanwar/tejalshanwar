@@ -25,47 +25,35 @@ I'm currently exploring **Data Analytics, Business Analytics, Power BI, UI/UX, F
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 
-**Python • C • Java • JavaScript**
+`Python` `C` `Java` `JavaScript` `SQL`
 
-### 🌐 Web Development
+### 🌐 Web & Frontend
 
-**HTML • CSS • JavaScript**
+`HTML5` `CSS3` `JavaScript` `Responsive Design`
 
-### 📊 Data Analytics & Business Analytics
+### 📊 Data & Analytics
 
-* Microsoft Excel
-* Power BI
-* SQL
-* Data Cleaning
-* Data Visualization
-* Dashboard Development
-* Basic Data Analysis
-* Business Insights
+`Power BI` `Microsoft Excel` `SQL` `Pandas` `Scikit-learn` `Data Visualization`
 
-### 🎨 UI/UX & Design
+### 🎨 UI/UX & Creative
 
-* UI/UX Design
-* Wireframing
-* Prototyping
-* Figma
-* Canva
-* Visual Design
+`Figma` `Canva` `UI/UX Design` `Wireframing` `Prototyping` `Visual Design`
 
-### 🤖 Data & Machine Learning
+### 🔧 Tools & Platforms
 
-* Python
-* Pandas
-* Scikit-learn
-* Basic Machine Learning
-* Data Visualization
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `Microsoft Office`
 
-### 🔧 Other Tools
+### 🤖 AI / ML
 
-**Git • GitHub • Arduino • Microsoft Office**
+`Python` `Pandas` `Scikit-learn` `Basic Machine Learning`
+
+### 🔌 Hardware & IoT
+
+`Arduino` `IoT`
 
 ---
 
@@ -75,31 +63,31 @@ I'm currently exploring **Data Analytics, Business Analytics, Power BI, UI/UX, F
 
 An interactive Power BI dashboard designed to analyze employee data, workforce trends, and key HR insights.
 
-**Tech:** Power BI • Excel • Data Analysis
+**Tech:** `Power BI` `Excel` `Data Analysis`
 
 ### 🏠 IoT Home Automation
 
 An Arduino-based home automation project designed to control appliances using IoT concepts.
 
-**Tech:** Arduino • IoT
+**Tech:** `Arduino` `IoT`
 
 ### 💊 Online Pharmacy Website
 
 A web-based pharmacy platform designed with a simple and user-friendly interface for browsing and ordering medicines.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** `HTML` `CSS` `JavaScript`
 
 ### 🍔 Food Ordering Website
 
 A responsive food ordering website focused on creating a simple and user-friendly digital experience.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** `HTML` `CSS` `JavaScript`
 
 ### 🌦️ Weather Prediction System
 
 A basic project exploring weather data and prediction concepts using Python.
 
-**Tech:** Python • Data Analysis
+**Tech:** `Python` `Pandas` `Data Analysis`
 
 ---
 
